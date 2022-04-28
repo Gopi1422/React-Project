@@ -17,5 +17,5 @@ $ npm start # or yarn start
 ```
 
 ### Output 
-![Output-1](https://github.com/Gopi1422/React-Project/edit/main/output/1.png)
+![Output-1](https://github.com/Gopi1422/React-Project/blob/89f66b8daaa04612c7f1b5a75d25d45f30df6dae/output/1.png)
 
