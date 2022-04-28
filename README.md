@@ -17,5 +17,5 @@ $ npm start # or yarn start
 ```
 
 ### Output 
-[Example-1](https://github.com/trusha1988/multi-focus-image-fusion/blob/main/Example-1.png)
+[1](https://github.com/Gopi1422/React-Project/edit/main/output/1.png)
 
