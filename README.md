@@ -5,7 +5,7 @@ This is a simple react todo app done step-by-step. This simple app was a part of
 ## Instructions
 First clone this repository.
 ```bash
-$ git clone https://github.com/kabirbaidhya/react-todo-app.git
+$ git clone https://github.com/Gopi1422/React-Project.git
 ```
 Install dependencies. Make sure you already have nodejs & npm installed in your system.
 ```bash
